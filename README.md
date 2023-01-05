@@ -1,2 +1,1 @@
-# 2021-1-algorithm
-알고리즘
+# 2021 Algorithm
